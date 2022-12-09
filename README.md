@@ -133,7 +133,7 @@ Masukan input sebagai berikut :
             print("                           PROGRAM TELAH SELESAI                    ")
             print("---------------------------------------------------------------------------------")
            print(35 * '=')
-            print("NAMA\t: ALIYAH ASMARANI\nKELAS\t: TI.22.A.2\nNIM\t: 312210203")
+            print("NAMA\t: Wisnu Ikhwansyah Saputra\nKELAS\t: TI.22.A3\nNIM\t: 312210305")
             print(35 * '=')
 
 
